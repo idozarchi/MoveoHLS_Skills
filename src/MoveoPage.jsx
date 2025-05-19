@@ -168,10 +168,10 @@ function MoveoPage(props) {
           <div className="section-flex">
             <ul className="section-text">
               <li>Security & confidentiality</li>
-              <li>Innovation for mission success</li>
               <li>Reliability and trust</li>
-              <li>Long-term partnerships</li>
-              <li>Commitment to national and public safety</li>
+              <li>Innovation</li>
+              <li>Creativity</li>
+              <li>Dedication</li>
             </ul>
             <div className="section-img-wrapper">
               <img
