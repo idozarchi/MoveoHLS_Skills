@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MoveoHLS_Skills/static/css/main.a1d2f5f6.css",
-    "main.js": "/MoveoHLS_Skills/static/js/main.cba2c049.js",
+    "main.js": "/MoveoHLS_Skills/static/js/main.7b52513d.js",
     "static/js/453.ad6eb26e.chunk.js": "/MoveoHLS_Skills/static/js/453.ad6eb26e.chunk.js",
     "static/media/freelance.avif": "/MoveoHLS_Skills/static/media/freelance.38fa3c5e792627f2bf86.avif",
     "static/media/clients.avif": "/MoveoHLS_Skills/static/media/clients.0316cd3fe9ea72ab85e5.avif",
@@ -17,11 +17,11 @@
     "static/media/Work-Methodology.jpg.webp": "/MoveoHLS_Skills/static/media/Work-Methodology.jpg.16492ebcf8a440bfa017.webp",
     "index.html": "/MoveoHLS_Skills/index.html",
     "main.a1d2f5f6.css.map": "/MoveoHLS_Skills/static/css/main.a1d2f5f6.css.map",
-    "main.cba2c049.js.map": "/MoveoHLS_Skills/static/js/main.cba2c049.js.map",
+    "main.7b52513d.js.map": "/MoveoHLS_Skills/static/js/main.7b52513d.js.map",
     "453.ad6eb26e.chunk.js.map": "/MoveoHLS_Skills/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1d2f5f6.css",
-    "static/js/main.cba2c049.js"
+    "static/js/main.7b52513d.js"
   ]
 }
