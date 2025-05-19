@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MoveoHLS_Skills/static/css/main.a1d2f5f6.css",
+    "main.js": "/MoveoHLS_Skills/static/js/main.cba2c049.js",
+    "static/js/453.ad6eb26e.chunk.js": "/MoveoHLS_Skills/static/js/453.ad6eb26e.chunk.js",
+    "static/media/freelance.avif": "/MoveoHLS_Skills/static/media/freelance.38fa3c5e792627f2bf86.avif",
+    "static/media/clients.avif": "/MoveoHLS_Skills/static/media/clients.0316cd3fe9ea72ab85e5.avif",
+    "static/media/yahalom.jpeg": "/MoveoHLS_Skills/static/media/yahalom.a6abb81dd4712b7b91a9.jpeg",
+    "static/media/about.jpeg": "/MoveoHLS_Skills/static/media/about.4ca28559cc883a353275.jpeg",
+    "static/media/tech.avif": "/MoveoHLS_Skills/static/media/tech.fe3942ab020db5306915.avif",
+    "static/media/infinityLabs.jpeg": "/MoveoHLS_Skills/static/media/infinityLabs.3704ab6aff4cd5a0f73a.jpeg",
+    "static/media/highschool.jpeg": "/MoveoHLS_Skills/static/media/highschool.7286124760d799f52f42.jpeg",
+    "static/media/navy.jpeg": "/MoveoHLS_Skills/static/media/navy.a59d2c287230cc02603c.jpeg",
+    "static/media/values.png": "/MoveoHLS_Skills/static/media/values.c493766233539eb9db57.png",
+    "static/media/moveo_structure.svg": "/MoveoHLS_Skills/static/media/moveo_structure.89b19ff98d1fb631c7457267886bab7a.svg",
+    "static/media/knowledge.jpg": "/MoveoHLS_Skills/static/media/knowledge.1cd57b89be877c3f297e.jpg",
+    "static/media/Work-Methodology.jpg.webp": "/MoveoHLS_Skills/static/media/Work-Methodology.jpg.16492ebcf8a440bfa017.webp",
+    "index.html": "/MoveoHLS_Skills/index.html",
+    "main.a1d2f5f6.css.map": "/MoveoHLS_Skills/static/css/main.a1d2f5f6.css.map",
+    "main.cba2c049.js.map": "/MoveoHLS_Skills/static/js/main.cba2c049.js.map",
+    "453.ad6eb26e.chunk.js.map": "/MoveoHLS_Skills/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d2f5f6.css",
+    "static/js/main.cba2c049.js"
+  ]
+}
