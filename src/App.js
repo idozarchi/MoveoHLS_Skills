@@ -20,6 +20,12 @@ import valuesImg from './media/values.png';
 function App() {
   const [showMoveo, setShowMoveo] = useState(false);
 
+  // Scroll to top when switching between pages
+  const handleNavClick = (showMoveoPage) => {
+    setShowMoveo(showMoveoPage);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
   return (
     <div className="App">
       <nav className="navbar">
@@ -27,7 +33,7 @@ function App() {
           <li>
             <button
               className="nav-btn"
-              onClick={() => setShowMoveo(false)}
+              onClick={() => handleNavClick(false)}
               aria-current={!showMoveo ? "page" : undefined}
             >
               Ido Zarchi
@@ -36,7 +42,7 @@ function App() {
           <li>
             <button
               className="nav-btn"
-              onClick={() => setShowMoveo(true)}
+              onClick={() => handleNavClick(true)}
               aria-current={showMoveo ? "page" : undefined}
             >
               Moveo
